@@ -3,7 +3,7 @@ package com;
 
 import java.util.Scanner;
 
-public class JavaDT {
+public class Java_Data_Types {
 
 	public static void main(String[] argh) {
 		Scanner sc = new Scanner(System.in);
